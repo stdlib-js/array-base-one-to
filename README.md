@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import oneTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@deno/mod.js';
+import oneTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@v0.1.0-deno/mod.js';
 ```
 
 #### oneTo( n )
@@ -91,7 +91,7 @@ var arr = oneTo( 5.1 );
 import sort2hp from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsort2hp@deno/mod.js';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@deno/mod.js';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import oneTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@deno/mod.js';
+import oneTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@v0.1.0-deno/mod.js';
 
 // Generate an array of random numbers:
 var x = filledBy( 10, randu );
