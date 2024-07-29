@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import oneTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@esm/index.mjs';
+import oneTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@esm/index.mjs';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@v0.2.2-esm/index.mjs';
 ```
 
 #### oneTo( n )
@@ -116,7 +116,7 @@ var bool = ( arr === out );
 import sort2hp from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gsort2hp@esm/index.mjs';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@esm/index.mjs';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import oneTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@esm/index.mjs';
+import oneTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-one-to@v0.2.2-esm/index.mjs';
 
 // Generate an array of random numbers:
 var x = filledBy( 10, randu );
