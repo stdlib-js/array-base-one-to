@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.2">
 
-## Unreleased (2024-07-17)
+## 0.2.2 (2024-07-29)
 
 <section class="commits">
 
@@ -43,12 +43,21 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.2.1 (2024-02-25)
 
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-15)
+
 <section class="features">
 
 ### Features
 
 -   [`c271344`](https://github.com/stdlib-js/stdlib/commit/c2713444ed5ab0594193c90a54b0164eb0400a57) - add `assign` method
--   [`17bef93`](https://github.com/stdlib-js/stdlib/commit/17bef93747a3b9d8d1544472e8e270d010605954) - add `array/base/one-to`
 
 </section>
 
@@ -61,6 +70,59 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 <details>
 
 -   [`c271344`](https://github.com/stdlib-js/stdlib/commit/c2713444ed5ab0594193c90a54b0164eb0400a57) - **feat:** add `assign` method _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-09-24)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.0">
+
+## 0.0.0 (2023-08-24)
+
+<section class="features">
+
+### Features
+
+-   [`17bef93`](https://github.com/stdlib-js/stdlib/commit/17bef93747a3b9d8d1544472e8e270d010605954) - add `array/base/one-to`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
 -   [`17bef93`](https://github.com/stdlib-js/stdlib/commit/17bef93747a3b9d8d1544472e8e270d010605954) - **feat:** add `array/base/one-to` _(by Athan Reines)_
 
 </details>
