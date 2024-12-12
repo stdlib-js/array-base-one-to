@@ -149,6 +149,13 @@ console.log( y );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-base/zero-to`][@stdlib/array/base/zero-to]</span><span class="delimiter">: </span><span class="description">generate a linearly spaced numeric array whose elements increment by 1 starting from zero.</span>
+-   <span class="package-name">[`@stdlib/array-base/ones`][@stdlib/array/base/ones]</span><span class="delimiter">: </span><span class="description">create a generic array filled with ones.</span>
+
 </section>
 
 <!-- /.related -->
@@ -192,8 +199,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/array-base-one-to.svg
 [npm-url]: https://npmjs.org/package/@stdlib/array-base-one-to
 
-[test-image]: https://github.com/stdlib-js/array-base-one-to/actions/workflows/test.yml/badge.svg?branch=v0.2.2
-[test-url]: https://github.com/stdlib-js/array-base-one-to/actions/workflows/test.yml?query=branch:v0.2.2
+[test-image]: https://github.com/stdlib-js/array-base-one-to/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/array-base-one-to/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-base-one-to/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/array-base-one-to?branch=main
@@ -224,6 +231,14 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-base-one-to/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-one-to/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/base/zero-to]: https://github.com/stdlib-js/array-base-zero-to
+
+[@stdlib/array/base/ones]: https://github.com/stdlib-js/array-base-ones
+
+<!-- </related-links> -->
 
 </section>
 
