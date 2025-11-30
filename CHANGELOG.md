@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-11-30)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`d22a58e`](https://github.com/stdlib-js/stdlib/commit/d22a58eaa5cea695ecb9809f85edea36d1199c74) - **refactor:** simplify declarations _(by Athan Reines)_
+-   [`eb00b1b`](https://github.com/stdlib-js/stdlib/commit/eb00b1b80848018e05fbc2a20d5985e747557977) - **docs:** fix example _(by Athan Reines)_
 -   [`cf7d38a`](https://github.com/stdlib-js/stdlib/commit/cf7d38ae3e7bce92cf47778f7b1c3da731121d77) - **docs:** update related packages sections [(#3527)](https://github.com/stdlib-js/stdlib/pull/3527) _(by stdlib-bot)_
 
 </details>
@@ -19,6 +21,18 @@
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
