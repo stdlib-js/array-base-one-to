@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`322eefc`](https://github.com/stdlib-js/stdlib/commit/322eefcff2e0d83f4e302c02bd57cee2a442b8f0) - **docs:** fix interface name in `array/base/one-to` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`d22a58e`](https://github.com/stdlib-js/stdlib/commit/d22a58eaa5cea695ecb9809f85edea36d1199c74) - **refactor:** simplify declarations _(by Athan Reines)_
 -   [`eb00b1b`](https://github.com/stdlib-js/stdlib/commit/eb00b1b80848018e05fbc2a20d5985e747557977) - **docs:** fix example _(by Athan Reines)_
 -   [`cf7d38a`](https://github.com/stdlib-js/stdlib/commit/cf7d38ae3e7bce92cf47778f7b1c3da731121d77) - **docs:** update related packages sections [(#3527)](https://github.com/stdlib-js/stdlib/pull/3527) _(by stdlib-bot)_
@@ -26,9 +27,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
